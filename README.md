@@ -1,7 +1,10 @@
 # Operating-Systems
 OperatingSystemsFunctions.txt
 
-The operating system helps control what you computer is doing. 
-It does this my managing where your information is stored. 
-Also the system manages where to grab information and how its going to be processed.
-Finaaly it controls how to run the information.
+The operating system is incharge of Data.
+By manages datat stored in the computers RAM memory.
+It incharge of storing Data on the Hard Drive.
+
+The operating system manages how the Hardware works.
+The OS controlls many things like Harddrive, Video cars, and anything connected in the ports.
+It does this my telling them how to operate and interact.
